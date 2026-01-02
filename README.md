@@ -17,7 +17,7 @@ It's a mini quadcopter powered by
 - A transmitter supporting you Reciver ( I have an Radio Master Pocket)
 
 # Frame
-The frame is going to be 3D model but hand crafted 
+The frame is going to be 3D model 
 
 <img width="2880" height="1226" alt="SHOT" src="https://github.com/user-attachments/assets/be78b230-e7fb-4a21-b58e-6b53974d8d97" />
 <img width="960" height="597" alt="Screenshot 2025-12-15 at 11 04 57 AM" src="https://github.com/user-attachments/assets/d0df0f2d-dc38-4953-843d-5a320e2c62fe" />
@@ -44,7 +44,7 @@ The housing is designed to fit all the component including battery, only the rec
   
 
 # PCB 
-The PCB is designed for refrence and future usage ,but currently i am going to use custom pcb board to keep the cost nominal 
+The PCB is designed for refrence and future usage 
 
 TOP SIDE-
 <img width="483" height="567" alt="Screenshot 2025-12-15 at 3 54 31 PM" src="https://github.com/user-attachments/assets/f39fb7e2-5632-46c8-97d1-43c2efea6e2c" />
