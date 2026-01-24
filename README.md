@@ -20,7 +20,7 @@ It's a mini quadcopter powered by
 
 # Frame
 The frame is going to be 3D model 
-<img width="960" height="597" alt="Screenshot 2025-12-15 at 11 04 57 AM" src="https://github.com/user-attachments/assets/d0df0f2d-dc38-4953-843d-5a320e2c62fe" />
+<img width="882" height="654" alt="Image" src="https://github.com/user-attachments/assets/64c97c8e-371e-471b-a67e-00e8dd91a03e" />
 The housing is designed to fit all the component including battery, only the receiver is kept outside tied with a zip tie.
 # Schematics
   <img width="1169" height="827" alt="Schematic_Mini-Drone_2025-12-14" src="https://github.com/user-attachments/assets/31eb330a-89d8-4b81-ad72-a2e1666bdc45" />
