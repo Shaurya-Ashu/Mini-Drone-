@@ -1,8 +1,10 @@
 # About me 
 Hi this is Shaurya a young innovator 
 I like to make smart & cool project , and specially i am fascinated by flying things
-So , today i am here try to make some things that can flys but also on a budget ~ $30
+So , today i am here try to make some things that can flys but also on a budget ~ $33
 # Mini-Drone-
+
+
 It's a mini quadcopter powered by 
 - Xiao ESP32 S3 (FC)
 - MPU 6050
@@ -18,8 +20,6 @@ It's a mini quadcopter powered by
 
 # Frame
 The frame is going to be 3D model 
-
-<img width="2880" height="1226" alt="SHOT" src="https://github.com/user-attachments/assets/be78b230-e7fb-4a21-b58e-6b53974d8d97" />
 <img width="960" height="597" alt="Screenshot 2025-12-15 at 11 04 57 AM" src="https://github.com/user-attachments/assets/d0df0f2d-dc38-4953-843d-5a320e2c62fe" />
 The housing is designed to fit all the component including battery, only the receiver is kept outside tied with a zip tie.
 # Schematics
