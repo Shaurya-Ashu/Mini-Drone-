@@ -4,7 +4,7 @@ I like to make smart & cool project , and specially i am fascinated by flying th
 So , today i am here try to make some things that can flys but also on a budget ~ $33
 # Mini-Drone-
 
-
+<img width="2880" height="1226" alt="Image" src="https://github.com/user-attachments/assets/6c468552-0975-4e9e-8316-51dba1fa7098" />
 It's a mini quadcopter powered by 
 - Xiao ESP32 S3 (FC)
 - MPU 6050
