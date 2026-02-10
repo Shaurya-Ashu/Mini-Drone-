@@ -3,7 +3,7 @@ Hi this is Shaurya a young innovator
 I like to make smart & cool project , and specially i am fascinated by flying things
 So , today i am here try to make some things that can flys .
 # Mini-Drone-
-<img width="1226" height="1226" alt="on ground" src="https://github.com/user-attachments/assets/18f06650-7e01-4290-9ec8-4bdf5c9def71" />
+<img width="2880" height="1226" alt="insky" src="https://github.com/user-attachments/assets/67523150-68f1-4892-a03d-cdfad02c0910" />
 
 It's a mini quadcopter powered by 
 - Xiao ESP32 S3 (FC)
@@ -19,9 +19,8 @@ It's a mini quadcopter powered by
 - A transmitter supporting you Reciver ( I have an Radio Master Pocket)
 
 # Frame
-The frame is going to be 3D model 
-<img width="1125" height="685" alt="Screenshot 2026-02-10 at 10 00 56 PM" src="https://github.com/user-attachments/assets/afd6f2d9-7c94-46ce-a321-8e1d02ab002d" />
-
+The frame is going to be 3D modeled and printed
+<img width="2880" height="1226" alt="frame pic" src="https://github.com/user-attachments/assets/13af2c07-3ecc-4074-a10e-1add3b66cc2b" />
 
 The housing is designed to fit all the component including battery, and the receiver is kept at the top with an open end for antenna.
 # Schematics
@@ -61,7 +60,8 @@ and for crsf , battry and MPU6050 are at bottom
 <img width="523" height="604" alt="Screenshot 2025-12-14 at 10 42 23 PM" src="https://github.com/user-attachments/assets/bbc49268-90e9-41c4-b215-e9f22f6bebd6" />
 
 # Assembly
-  The whole thing is designed to be fitted into that frame exactly tight . There's no extra need for any screws or support. I will also be taping them just for extra security, and the below given image shows how each component is placed in their.
+  The whole thing is designed to be fitted into that frame exactly tight . There's no extra need for any screws or support. I will also be taping them  just for extra security, and the below given image shows how each component is placed in their.
+  <img width="865" height="522" alt="Screenshot 2026-02-10 at 10 43 10 PM" src="https://github.com/user-attachments/assets/67545964-9576-4948-a5eb-f5d5a7d4ef32" />
 
 
 # Firmware
