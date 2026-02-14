@@ -42,24 +42,35 @@ The housing is designed to fit all the component including battery, and the rece
   RX --> D7
   TX --> D6
 
+  3.7v to 5v-
+  for reciver to get powered 
+
+  led-
+  2 power led
+  1 arm led
+
   Battery Voltage Telemetry-
   Vin --> A1
   
 
 # PCB 
 The PCB is designed in Kicad V9 
-top render
+
+top render-
+
 <img width="693" height="503" alt="Screenshot 2026-02-13 at 7 20 46 PM" src="https://github.com/user-attachments/assets/575b3a5d-e82b-4ef3-9a90-c41e48d989c1" />
-bottom render
+
+bottom render-
+
 <img width="582" height="528" alt="Screenshot 2026-02-13 at 7 20 58 PM" src="https://github.com/user-attachments/assets/103c9156-ec4c-4be5-a81f-91b89ea15608" />
-<img width="1440" height="900" alt="Screenshot 2026-02-13 at 7 21 10 PM" src="https://github.com/user-attachments/assets/551d1947-9b9d-499d-a6d9-300d3a31e879" />
 
 
 The connection for the motors are on top
 and for crsf at top , battry at bottom
 
 
-<img width="523" height="604" alt="Screenshot 2025-12-14 at 10 42 23 PM" src="https://github.com/user-attachments/assets/bbc49268-90e9-41c4-b215-e9f22f6bebd6" />
+<img width="1440" height="900" alt="Screenshot 2026-02-13 at 7 21 10 PM" src="https://github.com/user-attachments/assets/551d1947-9b9d-499d-a6d9-300d3a31e879" />
+
 
 # Assembly
   The whole thing is designed to be fitted into that frame , it's all going to be secured by a damping screw. A zip tie for battery just to be secured, and the below given image shows how each component is placed in their.
