@@ -19,7 +19,8 @@ It's a mini quadcopter powered by
 - A transmitter supporting you Reciver ( I have an Radio Master Pocket)
 
 # Frame
-The frame is going to be 3D modeled and printed
+The frame is generative designed 3D modeled in Fusion 360 Edu 
+It looks so greate 
 <img width="2880" height="1226" alt="Genrative_Design_Esp32S3_Drone_Frame_2026-Feb-13_04-50-57PM-000_CustomizedView5716981986_png_alpha" src="https://github.com/user-attachments/assets/05ee573a-f5bd-402d-9845-75dec8c777a7" />
 
 
