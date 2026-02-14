@@ -5,6 +5,8 @@ So , today i am here try to make some things that can flys .
 # Mini-Drone-
 <img width="2880" height="1226" alt="Genrative Design Esp32S3 Drone Frame v1" src="https://github.com/user-attachments/assets/646cab87-198d-4727-b35b-26df0137da60" />
 
+<img width="2880" height="1226" alt="simple_frame_v1_2026-Feb-14_08-37-48PM-000_CustomizedView30675265595_png" src="https://github.com/user-attachments/assets/c44904c1-143c-4c9c-ad2a-fd9bf249c6ff" />
+
 It's a mini quadcopter powered by 
 - Xiao ESP32 S3 (FC)
 - MPU 6050
@@ -19,9 +21,13 @@ It's a mini quadcopter powered by
 - A transmitter supporting you Reciver ( I have an Radio Master Pocket)
 
 # Frame
-The frame is generative designed 3D modeled in Fusion 360 Edu 
+There are two frames one generative designed and other is 3d moduled 
+The first frame is generative designed 3D modeled in Fusion 360 Edu 
 It looks so greate 
 <img width="2880" height="1226" alt="Genrative_Design_Esp32S3_Drone_Frame_2026-Feb-13_04-50-57PM-000_CustomizedView5716981986_png_alpha" src="https://github.com/user-attachments/assets/05ee573a-f5bd-402d-9845-75dec8c777a7" />
+
+The second is a Simple Dron Frame
+<img width="2880" height="1226" alt="simple_frame_v1_2026-Feb-14_08-45-50PM-000_CustomizedView12917580278_png" src="https://github.com/user-attachments/assets/c161a6ba-3bb4-4c15-83ba-ccaf3a038d86" />
 
 
 The housing is designed to fit all the component including battery, and the receiver is kept at the top with an open  antenna.
