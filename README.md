@@ -81,7 +81,13 @@ and for crsf at top , battry at bottom
 
 # Assembly
   The whole thing is designed to be fitted into that frame , it's all going to be secured by a damping screw. A zip tie for battery just to be secured, and the below given image shows how each component is placed in their.
+  
+  First Frame
   <img width="767" height="491" alt="Screenshot 2026-02-14 at 9 21 31 AM" src="https://github.com/user-attachments/assets/0251026f-6a3b-4f96-b88f-ef9dbacae415" />
+ 
+ Second Frame
+  <img width="675" height="524" alt="Screenshot 2026-02-15 at 2 11 53 AM" src="https://github.com/user-attachments/assets/16a1cf34-3f68-4fea-88d9-59ba4f39056e" />
+
 
 
 # Firmware
